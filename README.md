@@ -55,13 +55,14 @@ This project simulates an online car dealership platform where users can:
 
 ```text
 .
-├── sedan.php
-├── register_user.php
 ├── CSS/
-├── JS/
-├── img/
+├── Js/
+├── PHP/
 ├── data/
-└── README.md
+├── img/
+├── AUTO_EXCELLENCE.pptx
+├── README.md
+└── Rapport.pdf
 ```
 
 ---
