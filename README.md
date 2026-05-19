@@ -81,5 +81,5 @@ This project simulates an online car dealership platform where users can:
 
 ## Authors
 
-CY Tech Engineering School  
+Bertrand Lecoeur - CY Tech Engineering School  
 Web Development Project
